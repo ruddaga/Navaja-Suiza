@@ -1,0 +1,7 @@
+{
+  "name": "Guía de Estilo: Navaja Suiza",
+  "description": "Una aplicación móvil personalizada basada en tu bloque de estilismo para ayudarte en tus decisiones de compra y vestuario diario.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
